@@ -1,4 +1,2 @@
 # hello-world
-helloworld nihaoya
-bvvvvvvvvvvvvvvvvvdgh
-fghgfhfgjhgjg
+helloworld nihaoyavvvvdgh
